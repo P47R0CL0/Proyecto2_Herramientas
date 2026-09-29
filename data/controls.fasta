@@ -1,0 +1,12 @@
+>Magainin2_POS amphipathic antimicrobial helix (expect high muH, cationic)
+GIGKFLHSAKKFGKAFVGEIMNS
+>Melittin_POS amphipathic membrane-active helix (expect high muH, cationic)
+GIGAVLKVLTTGLPALISWIKRKRQQ
+>MSI78_Pexiganan_POS engineered amphipathic AMP (expect high muH, cationic)
+GIGKFLKKAKKFGKAFVKILKK
+>PolyLeu_TM transmembrane-like control (expect high mean H, low muH)
+LLLLLLLLLLLLLLLLLLLLLLLL
+>PolyGlu_NEG polar acidic control (expect low muH, negative charge)
+EEEEEEEEEEEEEEEEEEEEEEEE
+>AlaHelix_NEUTRAL low-amphipathy helix control (expect low muH)
+AAAAAAAAAAAAAAAAAAAAAAAA

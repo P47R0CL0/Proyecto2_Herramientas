@@ -1,0 +1,19 @@
+# Curated candidate endolysins with reported or plausible activity against Acinetobacter baumannii.
+# The accession column is a STARTING POINT and MUST be verified when fetched (fetch_sequences.py
+# reports mismatches). Several of these are documented to carry an intrinsic, C-terminal,
+# cationic/amphipathic, outer-membrane-active module (the direct precedent for the "amphipathic
+# helix" premise): notably LysAB2 (-> peptide LysAB2-P3) and PlyF307 (-> peptide P307).
+#
+# name         accession(guess) source_phage_or_host        note / key reference
+# ------------------------------------------------------------------------------------------------
+LysAB2         AGC38657         Acinetobacter phage phiAB2   C-term amphipathic peptide LysAB2-P3; Peng 2017 Sci Rep
+PlyF307        AKQ00080         A. baumannii prophage        C-term helix -> peptide P307; Lood 2015 AAC
+LysAB3         ?                Acinetobacter phage          modular endolysin; verify accession
+LysAB4         ?                Acinetobacter phage          modular endolysin; verify accession
+LysABP-01      ?                Acinetobacter phage AB-01    Lai 2011 Appl Microbiol Biotechnol
+ABgp46         ?                Acinetobacter phage          Oliveira 2016; broad Gram-negative activity
+Ply6A3         ?                Acinetobacter phage          Wu 2019
+LysMK34        ?                Acinetobacter phage MK34     Abdelkader 2020
+LysSS          ?                Salmonella phage / broad     Kim 2020; tested on A. baumannii
+LysAB1245      ?                Acinetobacter phage          verify accession
+# Add / correct rows freely. Empty accessions can be resolved by name via UniProt if network allows.
